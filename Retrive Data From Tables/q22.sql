@@ -1,0 +1,1 @@
+select * from nobel_win WHERE winner='Johannes Georg Bednorz';

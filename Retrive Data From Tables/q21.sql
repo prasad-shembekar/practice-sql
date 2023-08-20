@@ -1,0 +1,1 @@
+select * from nobel_win where (subject='Physiology' AND year < 1971) union (select * from nobel_win where (subject='Peace' and year >= 1974));

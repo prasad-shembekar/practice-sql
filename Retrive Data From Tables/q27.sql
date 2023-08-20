@@ -1,0 +1,1 @@
+select pro_name as 'Item Name' ,pro_prices as 'Price in Rs.' from item_mast;

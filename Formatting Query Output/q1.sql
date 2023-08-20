@@ -1,0 +1,1 @@
+select salesman_id,name,city,'%',commision*100 from salesman;
