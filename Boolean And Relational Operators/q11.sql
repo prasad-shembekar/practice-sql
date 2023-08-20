@@ -1,0 +1,1 @@
+select * from emp_details where emp_lname="Disni" OR emp_lname='Mardy';
