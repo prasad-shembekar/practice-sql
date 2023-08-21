@@ -21,9 +21,9 @@ So far, I have pushed answers of the following Questions you can refer solutions
 
 | Example Name | Solution |
 |--|--|
-| [1. Write a Python program to print the following string in a specific format (see the output).]() | [Solution]() |
-| [2. Write a Python program to find out what version of Python you are using.]() | [Solution]() |
-| [3. Write a Python program to display the current date and time.]() | [Solution]() |
+| [Retrieve Data From Table]() | [Solution]() |
+| [Extract data from multiple table]() | [Solution]() |
+| [Copy data of employee table into new employee table]() | [Solution]() |
 
 # If you like the project:
 - Star this Repo - [Practice python](https://github.com/prasad-shembekar/practice-sql)
