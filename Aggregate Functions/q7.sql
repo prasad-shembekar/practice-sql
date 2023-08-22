@@ -1,0 +1,1 @@
+selecct min(purch_amt) from orders;
