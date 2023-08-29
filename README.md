@@ -26,7 +26,7 @@ So far, I have pushed answers of the following Questions you can refer solutions
 | [Copy data of employee table into new employee table]() | [Solution]() |
 
 # If you like the project:
-- Star this Repo - [Practice MySQL](https://github.com/prasad-shembekar/practice-sql)
+- Star this Repo ✨- [Practice MySQL](https://github.com/prasad-shembekar/practice-sql)
 
 - Follow me on GitHub - [Prasad Shembekar](https://github.com/prasad-shembekar)
 
