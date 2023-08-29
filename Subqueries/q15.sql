@@ -1,0 +1,1 @@
+select customer_id,cust_name,city from customer_idwhere exists (select * from customer where city   ='London');
