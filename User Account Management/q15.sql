@@ -1,0 +1,1 @@
+rename user amit@localhost to sumit@localhost;
